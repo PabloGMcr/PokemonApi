@@ -27,3 +27,5 @@ nextPokemonButton.addEventListener('click', () => {
 });
 
 fetchPokemon(currentPokemonId);
+
+//
